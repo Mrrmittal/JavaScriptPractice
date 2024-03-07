@@ -1,0 +1,6 @@
+Que: What is Java Script?
+Sol: Java is client side programming language that helps and enable to create dynamic web pages, Control
+     multimedia and much more.
+
+     console.log() use to print statement.
+
