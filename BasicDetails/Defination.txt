@@ -9,3 +9,6 @@ Sol:
      1.) Dynamic Programming language thats means does not need to define datatype while creating an variable.
      2.) Used for both client side as well as server side.
      3.) No compiler is needed.
+     4.) Easy to learn.
+     5.) Lightweight to CPU and RAM.
+     6.) Both Compiled and Interpreted.
