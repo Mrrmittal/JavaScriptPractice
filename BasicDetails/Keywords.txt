@@ -1,0 +1,11 @@
+Que: Some reserved Keywords used in JavaScript ?
+Sol: Keywords are reserved words and cannot be used as a variable name. A JavaScript keyword tells about what kind of operation it will perform. 
+
+Some commonly used keywords are:
+1.) break and continue: break keyword is used to terminate a loop and continue is used to skip a particular iteration in a loop and move to the next iteration.
+2.) do…. while: In this, the statements written within the do block are executed till the condition in while is true.
+3.) for: It helps in executing a block of statements till the condition is true.
+4.) function: This keyword is used to declare a function.
+5.) return: This keyword is used to exit a function.
+6.) switch: This helps in executing a block of codes depending on different cases.
+7.) var, let, and const: These keywords are used to declare a variable in js. 
