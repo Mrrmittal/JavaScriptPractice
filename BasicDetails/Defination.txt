@@ -1,6 +1,11 @@
 Que: What is Java Script?
-Sol: Java is client side programming language that helps and enable to create dynamic web pages, Control
-     multimedia and much more.
+Sol: Java is used for both client side as well as server side programming language that helps and
+     enable to create dynamic web pages, Control multimedia and much more.
 
      console.log() use to print statement.
 
+Que: Basic Properties of JavaScript?
+Sol: 
+     1.) Dynamic Programming language thats means does not need to define datatype while creating an variable.
+     2.) Used for both client side as well as server side.
+     3.) No compiler is needed.
