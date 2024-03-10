@@ -1,0 +1,14 @@
+Que : what is ArrayMapFunction in JavaScript?
+Sol: JavaScript map() method iterates over an array, applying a callback function to each element,
+     and returns a new array with the results. The map() method does not change the original array,
+     and does not execute the function for empty elements.
+
+     JavaScript map() Method Syntax:
+        mJap((element, index, array) => { /* … */ })
+
+
+    for eg:    
+const numbers = [1, 4, 9, 16, 25];
+const squareRoots = numbers.map(num => Math.sqrt(num));
+ 
+console.log(squareRoots); // Output: [1, 2, 3, 4, 5]    
