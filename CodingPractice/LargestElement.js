@@ -11,4 +11,4 @@ let largestElement = array.reduce((res, current) =>{
     }
 })
 
-console.log(largestElement);
+console.log(largestElement); //OutPut : 96
